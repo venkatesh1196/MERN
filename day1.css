@@ -1,0 +1,55 @@
+button {
+    font-family: monospace;
+    background-color: green;
+    color: white;
+    padding: 2px;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    font-size: 14px;
+    color: grey;
+}
+
+.login {
+    padding: 6px;
+    border: 4px SOLID purple;
+    margin: 5px;
+    background-color: purple;
+    color: white;
+}
+
+.loyalty {
+    padding: 6px;
+    border: 4px SOLID red;
+    margin: 5px;
+    background-color: rgb(11, 11, 124);
+    color: white;
+}
+
+.trains {
+    color: red;
+}
+
+.contact {
+    background-color: orange;
+    border: 1px orange;
+    border-radius: 4px;
+}
+
+p {
+    position: relative;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    top: 350px;
+    background-color: grey;
+    color: white;
+    padding: 4px;
+}

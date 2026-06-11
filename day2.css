@@ -1,0 +1,80 @@
+button {
+    /* font-family: monospace; */
+    /* background-color: green; */
+    color: black;
+    /* padding: 0%; */
+    /* height: 30px; */
+    border: 0cap;
+    font-weight: bolder;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    font-size: 14px;
+    color: grey;
+}
+
+.login {
+    /* border: 4px SOLID rgb(54, 9, 189); */
+    background-color: #213d77;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding: 14px;
+}
+
+.loyalty {
+    /* border: 4px SOLID red; */
+    background-color: #213d77;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding: 14px;
+}
+
+.trains {
+    color: red;
+    background-color: white;
+    padding: 0%;
+    border: 0cap;
+    margin: 0%;
+    border-bottom: 2px solid red;
+}
+
+.wallet {
+    border-bottom: 2px solid red;
+}
+
+.contact {
+    /* background-color: orange; */
+    /* border: 1px orange; */
+    /* border-radius: 4px; */
+}
+
+p {
+    position: relative;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    top: 350px;
+    background-color: grey;
+    color: white;
+    padding: 4px;
+}
+
+.parent-container {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.second-parent-container {
+    display: flex;
+    justify-content: center;
+}
