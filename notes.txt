@@ -1,0 +1,5 @@
+* js code excution done in two phases: memeory creation phase, code excution phase.
+    -in memory creation phase all the declared ones will get the "memory" and as well as "hoisted"
+    and remaing ones wont get memory (not defined)
+    
+    Q. diff between undefined and not defined ? 
